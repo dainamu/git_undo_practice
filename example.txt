@@ -1,1 +1,2 @@
-Default content
+New content
+update example.txt
